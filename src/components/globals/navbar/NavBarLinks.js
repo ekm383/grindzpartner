@@ -74,7 +74,7 @@ const LinkWrapper = styled.ul`
   li:nth-child(6) > a {
     color: var(--white);
   }
-  height: ${props => (props.open ? "335px" : "0px")};
+  height: ${props => (props.open ? "239px" : "0px")};
   overflow: hidden;
   transition: all 0.2s ease-in-out;
   @media (min-width: 768px) {

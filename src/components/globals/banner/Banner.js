@@ -39,7 +39,6 @@ const BannerWrapper = styled.div`
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  margin-left: 3rem;
   color: var(--white);
   .shaka {
     position: absolute;
@@ -76,10 +75,9 @@ const BannerWrapper = styled.div`
   @media (max-width: 768px) {
     flex-basis: 100%;
     justify-content: flex-start;
-    margin-left: 1rem;
     .shaka {
-      top: 5%;
-      left: 60%;
+      top: 0%;
+      left: 15%;
     }
     .box {
       flex-basis: 100%;
