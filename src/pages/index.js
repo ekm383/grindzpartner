@@ -37,11 +37,10 @@ const IndexPage = () => (
       </Section>
     </HeaderIndex>
     <Section style={{ margin: "6rem auto" }}>
-      <p style={{ fontSize: "1.5rem", lineHeight: "2.5rem" }}>
-        Partner with Hawaii's best takeout marketplace offering the{" "}
-        <strong>lowest partnership rates in the Industry</strong> including
-        customer loyalty programs, a free tablet & training, and 100% commission
-        based.
+      <p style={{ fontSize: "2rem", lineHeight: "2.8rem" }}>
+        Fantastic marketing, technology, and the
+        <strong> lowest rates in the industry </strong>
+        make Grindz To Go the best takeout marketplace in Hawaii.
       </p>
     </Section>
     <Section id="services" style={{ margin: "6rem auto" }}>
