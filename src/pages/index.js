@@ -37,7 +37,7 @@ const IndexPage = () => (
       </Section>
     </HeaderIndex>
 
-    <Section id="services" style={{ height: "100vh" }}>
+    <Section id="services" style={{ margin: "6rem auto" }}>
       <Intro heading="services" />
       <Features
         subheading="online ordering"
@@ -49,7 +49,7 @@ const IndexPage = () => (
       />
       <Features
         subheading="Agency Services"
-        content="If you're short on marketing staff, we offer agency services at a monthly rate that include photography, videography, digital advertising, and more."
+        content="If you're short on marketing staff, we offer agency services at a monthly rate that include(s) photography, videography, digital advertising, and more."
       />
       <Features
         subheading="Loyalty Program"
@@ -57,7 +57,7 @@ const IndexPage = () => (
       />
     </Section>
 
-    <Section id="rates" style={{ height: "100vh" }}>
+    <Section id="rates" style={{ margin: "6rem auto" }}>
       <Intro
         heading="Rates"
         subheading="With menu images, upsales, loyalty programs, and cross marketing, get the most powerful online ordering solution."

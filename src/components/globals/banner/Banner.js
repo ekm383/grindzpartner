@@ -26,7 +26,7 @@ const Banner = ({ style, subtitle, children }) => {
     <BannerWrapper style={style}>
       <div className="box">
         <Img className="shaka" fluid={data.image2.childImageSharp.fluid} />
-        <Img fluid={data.image1.childImageSharp.fluid} />
+        <Img className="grindz" fluid={data.image1.childImageSharp.fluid} />
         <h3 className="subtitle">{subtitle}</h3>
         {children}
       </div>
@@ -46,6 +46,10 @@ const BannerWrapper = styled.div`
     top: 15%;
     left: 95%;
     width: 120px;
+  }
+  .grindz {
+    width: 75%;
+    margin: -3rem auto 0rem auto;
   }
   .box {
     flex-basis: 70%;
