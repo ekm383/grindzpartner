@@ -7,7 +7,10 @@ const HeaderIndex = ({ img, children }) => {
 
 const IndexHeader = styled.header`
   height: 100vh;
-  background: url(${props => props.img}) center/cover fixed no-repeat;
+  background-image: url(${props => props.img});
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
   display: flex;
   flex-direction: column;
   justify-content: center;
