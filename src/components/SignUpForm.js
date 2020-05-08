@@ -95,83 +95,122 @@ const SignUpForm = () => {
             <p style={{ fontSize: "0.7rem", marginBottom: "0" }}>
               Do you agree to all terms and conditions?
             </p>
-            <p className="contract">
-              Terms and Conditions for grindz to go Introduction These Website
-              Standard Terms and Conditions written on this webpage shall manage
-              your use of our website, grindz partner accessible at
-              grindzpartner.com. These Terms will be applied fully and affect to
-              your use of this Website. By using this Website, you agreed to
-              accept all terms and conditions written in here. You must not use
-              this Website if you disagree with any of these Website Standard
-              Terms and Conditions. These Terms and Conditions have been
-              generated with the help of the Terms And Conditions Template and
-              the Terms and Conditions Generator. Minors or people below 18
-              years old are not allowed to use this Website. Intellectual
-              Property Rights Other than the content you own, under these Terms,
-              grindz to go and/or its licensors own all the intellectual
-              property rights and materials contained in this Website. You are
-              granted limited license only for purposes of viewing the material
-              contained on this Website. Restrictions You are specifically
-              restricted from all of the following: publishing any Website
-              material in any other media; selling, sublicensing and/or
-              otherwise commercializing any Website material; publicly
-              performing and/or showing any Website material; using this Website
-              in any way that is or may be damaging to this Website; using this
-              Website in any way that impacts user access to this Website; using
-              this Website contrary to applicable laws and regulations, or in
-              any way may cause harm to the Website, or to any person or
-              business entity; engaging in any data mining, data harvesting,
-              data extracting or any other similar activity in relation to this
-              Website; using this Website to engage in any advertising or
-              marketing. Certain areas of this Website are restricted from being
-              access by you and grindz to go may further restrict access by you
-              to any areas of this Website, at any time, in absolute discretion.
-              Any user ID and password you may have for this Website are
-              confidential and you must maintain confidentiality as well. Your
-              Content In these Website Standard Terms and Conditions, "Your
-              Content" shall mean any audio, video text, images or other
-              material you choose to display on this Website. By displaying Your
-              Content, you grant grindz to go a non-exclusive, worldwide
-              irrevocable, sub licensable license to use, reproduce, adapt,
-              publish, translate and distribute it in any and all media. Your
-              Content must be your own and must not be invading any
-              third-party’s rights. grindz to go reserves the right to remove
-              any of Your Content from this Website at any time without notice.
-              Your Privacy Please read Privacy Policy. No warranties This
-              Website is provided "as is," with all faults, and grindz to go
-              express no representations or warranties, of any kind related to
-              this Website or the materials contained on this Website. Also,
-              nothing contained on this Website shall be interpreted as advising
-              you. Limitation of liability In no event shall grindz to go, nor
-              any of its officers, directors and employees, shall be held liable
-              for anything arising out of or in any way connected with your use
-              of this Website whether such liability is under contract. grindz
-              to go, including its officers, directors and employees shall not
-              be held liable for any indirect, consequential or special
-              liability arising out of or in any way related to your use of this
-              Website. Indemnification You hereby indemnify to the fullest
-              extent grindz to go from and against any and/or all liabilities,
-              costs, demands, causes of action, damages and expenses arising in
-              any way related to your breach of any of the provisions of these
-              Terms. Severability If any provision of these Terms is found to be
-              invalid under any applicable law, such provisions shall be deleted
-              without affecting the remaining provisions herein. Variation of
-              Terms grindz to go is permitted to revise these Terms at any time
-              as it sees fit, and by using this Website you are expected to
-              review these Terms on a regular basis. Assignment The grindz to go
-              is allowed to assign, transfer, and subcontract its rights and/or
-              obligations under these Terms without any notification. However,
-              you are not allowed to assign, transfer, or subcontract any of
-              your rights and/or obligations under these Terms. Entire Agreement
-              These Terms constitute the entire agreement between grindz to go
-              and you in relation to your use of this Website, and supersede all
-              prior agreements and understandings. Governing Law & Jurisdiction
-              These Terms will be governed by and interpreted in accordance with
-              the laws of the State of us, and you submit to the non-exclusive
-              jurisdiction of the state and federal courts located in us for the
-              resolution of any disputes.
-            </p>
-
+            <div>
+              <p className="contract">
+                1. NATURE OF SERVICES: <br />
+                Grindz ToGo, LLC’s nature of business is to provide online
+                marketing services to restaurants and other various outside
+                vendors for the purposes of increasing a restaurant’s or outside
+                vendor’s individual monthly gross sales and market visibility.
+                For such successfully generated orders, Grindz ToGo, LLC charges
+                sales commission(s). Grindz ToGo, LLC openly works alongside
+                many restaurants and vendors across many cuisines and areas of
+                business. Grindz ToGo, LLC conducts targeted marketing campaigns
+                promoting all or some of their associated restaurants or
+                vendors. These services can include but are not limited to,
+                print, television, radio, and online advertising campaigns of
+                any kind. Grindz ToGo, LLC aims to market and promote client
+                brands in innovative and new ways, and in a manner which Grindz
+                ToGo, LLC and its directors deem appropriate. This agreement
+                acknowledges and permits Grindz ToGo, LLC to use the Restaurant
+                brand and name for the above stated purposes.
+              </p>
+              <p className="contract">
+                2. TERM: <br />
+                The term of this agreement shall automatically renew on the
+                first day of each month. This agreement is ongoing from the
+                initial signing date. Cancellation must be served in writing
+                with minimum thirty (30) days notice, unless a mutually
+                agreeable cancellation date cannot be determined by both
+                parties. Restaurant may be liable for any outstanding marketing
+                obligations, should such obligations extend to a date beyond the
+                cancellation date. No other fees apply to cancellation by either
+                party.
+              </p>
+              <p className="contract">
+                3. ONLINE MARKETING AGREEMENT: <br />
+                Grindz ToGo, LLC shall host and make public Restaurant’s menu
+                and other products. Grindz ToGo, LLC is not liable or
+                responsible for the public perception of Restaurant, positive or
+                negative, related or unrelated to this agreement. Grindz ToGo,
+                LLC shall provide customer support via public email and online
+                chat during regular business hours to assist with customer
+                information and questions related to process of generating sales
+                for Restaurant. Grindz ToGo, LLC and its directors shall
+                determine, in its best interest, the hours in which these
+                services are offered, and reserve the right to make future
+                changes at any moment without notice. Grindz ToGo, LLC will
+                provide e-commerce support and capabilities for the Restaurant
+                at all times, when possible. Grindz ToGo, LLC does not warrant
+                the site has 100% uptime, nor shall it be held liable should the
+                site malfunction for any reason. Grindztogo.com is a portal
+                connecting users to individual restaurants who voluntarily agree
+                to participate. Grindz ToGo, LLC reserves the right to sell any
+                outside products they wish alongside Restaurant product(s).
+                <br />
+                <br />
+                i. TAKEOUT SALES All payments under this method are processed by
+                Grindz ToGo, LLC on behalf of Restaurant. If these services are
+                selected, given the cost associated with the maintenance of this
+                business model, Marketing Agent shall earn a sales commission of
+                15 % of the gross delivery sales for any and all restaurants
+                items sold through or by Grindz ToGo, LLC.
+              </p>
+              <p className="contract">
+                4. PAYMENT: <br />
+                Marketing Agent shall remit payment, less or including any
+                earned commissions, taxes, charges, fines, liabilities, on the
+                first day of each month, for the previous month’s sales for any
+                and all Restaurant or Vendor items sold through or by Grindz
+                ToGo, LLC. This payment shall be made in the form of a check. A
+                grace period of five (5) business days shall be granted to
+                Grindz ToGo, LLC. For all revenue and monies accepted and
+                collected or processed by Grindz ToGo, LLC either via merchant
+                services or cash payments, Grindz ToGo, LLC shall be responsible
+                for all applicable state and local general excise taxes, in
+                full, for each month.
+              </p>
+              <p className="contract">
+                5. RESTAURANT TERMS OF SERVICE: <br />
+                Restaurant will abide by agreement and cook, prepare, and/or
+                sort sales/orders generated by Grindz ToGo, LLC in accordance
+                with the individual restaurant guidelines detailed on Exhibit A
+                “Restaurant Profile & Hours”. Restaurant will alert Grindz ToGo,
+                LLC in reasonable time to sold-out items, early closures, and
+                other operational information that directly effects Grindz ToGo,
+                LLC’s nature of business and their ability to provide the
+                services described herein. Restaurant is liable and accountable
+                for the taste and presentation of final product and food. This
+                includes but is not limited to the inclusion or exclusion of any
+                items, marketing collateral, and other optional materials the
+                restaurant wishes their consumers to have. Marketing Agent is
+                not responsible to provide any items and is in no way
+                responsible nor guarantees customer satisfaction in any manner.
+                Restaurant will not prioritize or differentiate takeout orders
+                submitted by Grindz ToGo, LLC from orders generated directly by
+                the restaurant or vendor, or by other means, nor give priority
+                to patrons currently conducting business within their
+                establishment(s).
+              </p>
+              <p className="contract">
+                6. MARKETING MATERIALS AND USE RELEASE: <br />
+                By entering this agreement, restaurant agrees to release to
+                Grindz ToGo, LLC, for the entire term of this agreement, the
+                right to utilize the Restaurant logo, image, brand, likeness,
+                name, menu, items, general information and other materials
+                submitted at any point to Grindz ToGo, LLC for any reason, for
+                use in targeted marketing campaigns, at the sole direction of
+                Grindz ToGo, LLC, to promote none, any, or all restaurants,
+                including but not limited to the restaurant for which this
+                particular agreement pertains, including general take-out sales,
+                generated by Grindz ToGo, LLC via any means, and generally for
+                the benefit of Restaurant, as determined by Grindz ToGo, LLC.
+                Restaurant will hold harmless Grindz ToGo, LLC and its directors
+                for all damages or consequences resulting from any use or misuse
+                of the Restaurant image, brand, or name, when used for the
+                purposes of this agreement.
+              </p>
+            </div>
             <br />
             <div style={{ display: "flex" }}>
               <label htmlFor="agree">
@@ -227,8 +266,6 @@ const FormWrapper = styled.div`
     width: 1px;
   } */
   .contract {
-    height: 100px;
-    overflow: scroll;
     font-size: 8px;
     line-height: 0.8rem;
     margin: 10px 0px;
