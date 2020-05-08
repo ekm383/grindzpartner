@@ -86,9 +86,41 @@ const SignUpForm = () => {
             </div>
           </li>
           <li className="form-list__row">
+            <p style={{ fontSize: "0.7rem", marginBottom: "0" }}>
+              Would you like to accept takeout orders?
+            </p>
+            <br />
+            <div style={{ display: "flex" }}>
+              <label htmlFor="takeoutyes">
+                Yes
+                <input
+                  type="radio"
+                  id="takeoutyes"
+                  name="takeoutorders"
+                  value="yes"
+                />
+              </label>
+              <label htmlFor="takeoutno">
+                No
+                <input
+                  type="radio"
+                  id="takeoutno"
+                  name="takeoutorders"
+                  value="no"
+                />
+              </label>
+            </div>
+          </li>
+          <li className="form-list__row">
             <label htmlFor="checks">
               What address would you like monthly checks to be mailed to?
               <input id="checks" type="text" name="checks" required="" />
+            </label>
+          </li>
+          <li className="form-list__row">
+            <label htmlFor="rep">
+              Who is the account representative that helped you today?
+              <input id="rep" type="text" name="rep" required="" />
             </label>
           </li>
           <li className="form-list__row">

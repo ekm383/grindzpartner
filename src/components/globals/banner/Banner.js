@@ -61,7 +61,7 @@ const BannerWrapper = styled.div`
   .title,
   .subtitle {
     margin-top: 0px;
-    margin-bottom: 10px;
+    margin-bottom: 2rem;
     text-align: center;
   }
   .title {

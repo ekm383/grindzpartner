@@ -36,7 +36,14 @@ const IndexPage = () => (
         </Banner>
       </Section>
     </HeaderIndex>
-
+    <Section style={{ margin: "6rem auto" }}>
+      <p style={{ fontSize: "1.5rem", lineHeight: "2.5rem" }}>
+        Partner with Hawaii's best takeout marketplace offering the{" "}
+        <strong>lowest partnership rates in the Industry</strong> including
+        customer loyalty programs, a free tablet & training, and 100% commission
+        based.
+      </p>
+    </Section>
     <Section id="services" style={{ margin: "6rem auto" }}>
       <Intro heading="services" />
       <Features
@@ -64,12 +71,11 @@ const IndexPage = () => (
       />
       <Features
         subheading="15% + 2% Credit Card Fee"
-        content="• Listed on Grindz To Go Platform and an embedded menu or link on restaurants website."
+        content="• Showcase your menu on the Grindz To Go Marketplace plus your website. Get More Orders, Save More Money!"
       />
       <Features
         subheading="20% + 2% credit card fee"
-        content="• Listed on Grindz To Go Platform and an embedded menu or link on restaurants website."
-        content2="• Restaurant website design, build, maintenance."
+        content="• Need to refresh your web design? No problem, that's one of our specialties! Showcase your menu on the Grindz To Go Marketplace plus your website."
       />
       <AniLink fade to="/partner">
         <Button>SIGN UP</Button>
