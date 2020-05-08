@@ -45,7 +45,7 @@ const BannerWrapper = styled.div`
     position: absolute;
     top: 15%;
     left: 95%;
-    width: 100px;
+    width: 120px;
   }
   .box {
     flex-basis: 70%;

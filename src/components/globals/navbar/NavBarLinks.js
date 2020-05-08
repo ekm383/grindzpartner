@@ -63,7 +63,7 @@ const LinkWrapper = styled.ul`
     cursor: pointer;
     transition: all 0.2s linear;
     &:hover {
-      background: var(--darkGray);
+      background: var(--mainColor);
       color: var(--white);
       padding: 0.8rem 1.5rem;
     }
@@ -74,7 +74,7 @@ const LinkWrapper = styled.ul`
   li:nth-child(6) > a {
     color: var(--white);
   }
-  height: ${props => (props.open ? "239px" : "0px")};
+  height: ${props => (props.open ? "245px" : "0px")};
   overflow: hidden;
   transition: all 0.2s ease-in-out;
   @media (min-width: 768px) {
@@ -83,7 +83,8 @@ const LinkWrapper = styled.ul`
     padding-left: 2rem;
     .nav-link {
       padding: 1rem 1rem 1rem 1rem;
-      font-size: 0.8rem;
+      font-size: 1rem;
+      font-weight: bold;
       letter-spacing: 0.5px;
       text-transform: uppercase;
     }
