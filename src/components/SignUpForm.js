@@ -201,7 +201,7 @@ const SignUpForm = () => {
 }
 
 const FormWrapper = styled.div`
-  width: 80%;
+  width: 100%;
   padding-bottom: 4rem;
   h6 {
     font-size: 1rem;

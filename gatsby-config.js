@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Grindz To Go`,
-    description: `Grindz To Go is a full-service digital marketing agency. Running a restaurant is your passion, marketing your restaurant is ours. Better branding. Better results.`,
+    description: `Grindz To Go is an online ordering platform for takeout orders. Running a restaurant is your passion, marketing your restaurant is ours. Better branding. Better results.`,
     author: `@grindztogo`,
     image: "/restaurant-marketing-hawaii.png",
     siteURL: "https://restaurantmarketinghawaii.netlify.com",

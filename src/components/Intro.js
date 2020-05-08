@@ -23,7 +23,7 @@ const IntroWrapper = styled.div`
   @media (max-width: 768px) {
     flex-basis: 100%;
     h2 {
-      font-size: 1.2rem;
+      font-size: 2rem;
       margin-bottom: 0rem;
     }
     p {
