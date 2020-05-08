@@ -81,8 +81,11 @@ const BannerWrapper = styled.div`
     flex-basis: 100%;
     justify-content: flex-start;
     .shaka {
+      margin-top: -100px;
+      margin-bottom: 100px;
       top: 0%;
       left: 15%;
+      z-index: 999;
     }
     .box {
       flex-basis: 100%;
