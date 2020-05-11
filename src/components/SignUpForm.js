@@ -192,15 +192,14 @@ const SignUpForm = () => {
                 4. PAYMENT: <br />
                 Marketing Agent shall remit payment, less or including any
                 earned commissions, taxes, charges, fines, liabilities, on the
-                first day of each month, for the previous month’s sales for any
-                and all Restaurant or Vendor items sold through or by Grindz
-                ToGo, LLC. This payment shall be made in the form of a check. A
-                grace period of five (5) business days shall be granted to
-                Grindz ToGo, LLC. For all revenue and monies accepted and
-                collected or processed by Grindz ToGo, LLC either via merchant
-                services or cash payments, Grindz ToGo, LLC shall be responsible
-                for all applicable state and local general excise taxes, in
-                full, for each month.
+                1st and 15th of each month for any and all Restaurant or Vendor
+                items sold through or by Grindz ToGo, LLC. This payment shall be
+                made in the form of a check. A grace period of five (5) business
+                days shall be granted to Grindz ToGo, LLC. For all revenue and
+                monies accepted and collected or processed by Grindz ToGo, LLC
+                either via merchant services or cash payments, Grindz ToGo, LLC
+                shall be responsible for all applicable state and local general
+                excise taxes, in full, for each month.
               </p>
               <p className="contract">
                 5. RESTAURANT TERMS OF SERVICE: <br />

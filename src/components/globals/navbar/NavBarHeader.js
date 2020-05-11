@@ -10,7 +10,7 @@ const NavBarHeader = ({ handleNavBar }) => {
         <a href="https://www.instagram.com/restaurantmarketinghawaii">
           <FaInstagram className="social" />
         </a>
-        <a href="https://www.facebook.com/restaurantmarketinghawaii">
+        <a href="https://www.facebook.com/grindztogo/">
           <FaFacebook className="social" />
         </a>
         <a href="https://www.google.com/restaurantmarketinghawaii">

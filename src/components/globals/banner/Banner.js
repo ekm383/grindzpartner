@@ -83,7 +83,7 @@ const BannerWrapper = styled.div`
     .shaka {
       margin-top: -100px;
       margin-bottom: 100px;
-      top: 0%;
+      top: 10%;
       left: 15%;
       z-index: 999;
     }

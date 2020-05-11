@@ -18,7 +18,7 @@ class Footer extends Component {
       {
         id: 1,
         icon: <FaFacebook className="icon facebook-icon" />,
-        path: "https://www.facebook.com/restaurantmarketinghawaii",
+        path: "https://www.facebook.com/grindztogo/",
       },
     ],
   }

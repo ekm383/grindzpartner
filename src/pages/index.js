@@ -38,9 +38,9 @@ const IndexPage = () => (
     </HeaderIndex>
     <Section style={{ margin: "6rem auto" }}>
       <p style={{ fontSize: "2rem", lineHeight: "2.8rem" }}>
-        Fantastic marketing, technology, and the
-        <strong> lowest rates in the industry </strong>
-        make Grindz To Go the best takeout marketplace in Hawaii.
+        Fantastic Marketing, Intelligent technology, and the{" "}
+        <strong>lowest rates in the industry</strong> make Grinds To Go the best
+        restaurant takeout marketplace in Hawaii.
       </p>
     </Section>
     <Section id="services" style={{ margin: "6rem auto" }}>
