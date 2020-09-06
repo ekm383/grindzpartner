@@ -7,13 +7,13 @@ const NavBarHeader = ({ handleNavBar }) => {
   return (
     <HeaderWrapper>
       <div>
-        <a href="https://www.instagram.com/restaurantmarketinghawaii">
+        <a href="https://www.instagram.com/grindztogohi/">
           <FaInstagram className="social" />
         </a>
         <a href="https://www.facebook.com/grindztogo/">
           <FaFacebook className="social" />
         </a>
-        <a href="https://www.google.com/restaurantmarketinghawaii">
+        <a href="https://www.facebook.com/grindztogo">
           <FaGoogle className="social" />
         </a>
       </div>
