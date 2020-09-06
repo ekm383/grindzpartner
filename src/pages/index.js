@@ -69,11 +69,11 @@ const IndexPage = () => (
         subheading="With menu images, upsales, loyalty programs, and cross marketing, get the most powerful online ordering solution."
       />
       <Features
-        subheading="15% + 2% Credit Card Fee"
+        subheading="9% + 3% Credit Card Fee"
         content="• Showcase your menu on the Grindz To Go Marketplace plus your website. Get More Orders, Save More Money!"
       />
       <Features
-        subheading="20% + 2% credit card fee"
+        subheading="12% + 3% credit card fee"
         content="• Need to refresh your web design? No problem, that's one of our specialties! Showcase your menu on the Grindz To Go Marketplace plus your website."
       />
       <AniLink fade to="/partner">
