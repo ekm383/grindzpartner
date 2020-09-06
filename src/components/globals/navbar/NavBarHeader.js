@@ -1,6 +1,6 @@
 import React from "react"
 import { FaBars } from "react-icons/fa"
-import { FaInstagram, FaFacebook, FaGoogle } from "react-icons/fa"
+import { FaInstagram, FaFacebook } from "react-icons/fa"
 import styled from "styled-components"
 
 const NavBarHeader = ({ handleNavBar }) => {
@@ -12,9 +12,6 @@ const NavBarHeader = ({ handleNavBar }) => {
         </a>
         <a href="https://www.facebook.com/grindztogo/">
           <FaFacebook className="social" />
-        </a>
-        <a href="https://www.facebook.com/grindztogo">
-          <FaGoogle className="social" />
         </a>
       </div>
       <div>
@@ -37,8 +34,8 @@ const HeaderWrapper = styled.div`
   justify-content: space-between;
   .social {
     color: var(--mainColor);
-    font-size: 1rem;
-    margin-right: 0.3rem;
+    font-size: 1.5rem;
+    margin-right: 0.5rem;
   }
   .toggle-icon {
     font-size: 1.5rem;
